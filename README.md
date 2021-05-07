@@ -90,6 +90,7 @@ Output screen
 
 Many of the response columns are highly imbalanced with only a small number of positive responses.
 In future iterations of this project this imbalance could be addressed for further improvement of the model scoring.
+This could include random oversampling or undersampling, or tools such as SMOTE for synthetic balancing.
 
 
 ## Links
